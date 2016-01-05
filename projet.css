@@ -11,7 +11,7 @@ h2
 	font-size:20pt;
 }
 
-h3
+label
 {
 	text-align:center;
 }
@@ -35,4 +35,9 @@ b
 p
 {
 	font-size:25pt
+}
+
+background
+{
+	background-color:grey
 }
