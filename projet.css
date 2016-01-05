@@ -29,15 +29,15 @@ table
 
 b
 {
-	text-decoration:line-through
+	text-decoration:line-through;
 }
 
 p
 {
-	font-size:25pt
+	font-size:25pt;
 }
 
-background
+body
 {
-	background-color:grey
+	background-color:grey;
 }
